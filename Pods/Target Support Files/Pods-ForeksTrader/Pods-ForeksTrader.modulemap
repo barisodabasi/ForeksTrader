@@ -1,0 +1,6 @@
+framework module Pods_ForeksTrader {
+  umbrella header "Pods-ForeksTrader-umbrella.h"
+
+  export *
+  module * { export * }
+}
